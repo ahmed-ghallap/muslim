@@ -134,12 +134,12 @@ section {
  background-color: var(--main-color);  
   height: 100vh; 
   margin-top: -22px; 
- background-image: url(/final/digital-agency-html-template/img/blob-top-left.png),
-url(/final/digital-agency-html-template/img/blob-top-right.png),
-url(/final/digital-agency-html-template/img/blob-bottom-left.png),
-url(/final/digital-agency-html-template/img/blob-bottom-right.png),
-url(/final/digital-agency-html-template/img/blob-center.png),
-url(/final/digital-agency-html-template/img/bg-bottom.png);
+ background-image: url(digital-agency-html-template/img/blob-top-left.png),
+url(digital-agency-html-template/img/blob-top-right.png),
+url(digital-agency-html-template/img/blob-bottom-left.png),
+url(digital-agency-html-template/img/blob-bottom-right.png),
+url(digital-agency-html-template/img/blob-center.png),
+url(digital-agency-html-template/img/bg-bottom.png);
       background-position: left 0px top 0px, right 0px top 0px, left 0px bottom 0px, right 0px bottom 0px, center center, center bottom; 
      background-repeat: no-repeat; 
      
@@ -437,7 +437,7 @@ color: white;
   }
 }
 .photo .icon{
-  background-image: url(/final/digital-agency-html-template/img/blob-primary.png);
+  background-image: url(digital-agency-html-template/img/blob-primary.png);
   
 }
 /* End About */
@@ -559,7 +559,7 @@ position: relative;
   margin-top:-15px ;
 }
 .servies .container .box:hover .photo{
-  background-image: url(/final/digital-agency-html-template/img/blob-secondary.png);
+  background-image: url(digital-agency-html-template/img/blob-secondary.png);
   background-repeat: no-repeat;
   background-size: 120px 100px;
 }
@@ -579,7 +579,7 @@ margin-bottom: 10px;
   color: black;
 }
  .servies .container .box .photo {
-  background-image: url(/final/digital-agency-html-template/img/blob-primary.png);
+  background-image: url(digital-agency-html-template/img/blob-primary.png);
 background-repeat: no-repeat;
 background-size: cover;
 margin: 10px auto;
@@ -920,7 +920,7 @@ border-radius: 50%;
   background-color: var(--main-color);
   padding: 50px;
   color: white;
-  background-image: url(/final/digital-agency-html-template/img/bg-top.png), url(/final/digital-agency-html-template/img/map.png);
+  background-image: url(digital-agency-html-template/img/bg-top.png), url(digital-agency-html-template/img/map.png);
   background-position: center top, center center;
   background-repeat: no-repeat;
 }
